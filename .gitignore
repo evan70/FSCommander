@@ -15,3 +15,17 @@ venv/
 .vscode/
 .pytest_cache/
 .DS_Store
+
+# Agent files (not tracked)
+TODO.md
+TODO*.md
+FLOW.md
+FLOW*.md
+context.json
+*.context.json
+.qwen/
+.cursor/
+.claude/
+agent_*.py
+instructions.md
+handoff.md
